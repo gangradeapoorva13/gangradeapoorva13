@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gangradeapoorva13 APOORVA GANGRADE
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on MNC's
 - 📫 How to reach me gangradeapoorva13@gmail.com 
