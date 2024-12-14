@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on MNC's
 - 📫 How to reach me gangradeapoorva13@gmail.com 
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Data Analyst 
 - ⚡ Fun fact: ...
 
 <!---
